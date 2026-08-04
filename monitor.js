@@ -145,7 +145,7 @@ async function main() {
         );
         await sendDiscordMessage(
           webhookUrl,
-          `🔔 **${label}** changed their Meta Horizon username:\n` +
+          `🔔 **${label}** has changed their meta username:\n` +
             `\`${previousUsername}\` → \`${currentUsername}\`\n` +
             `<https://horizon.meta.com/profile/${profileId}/>`
         );
