@@ -1,8 +1,8 @@
 {
   "profiles": [
-    { "label": "Account 1", "profileId": "114999318137699" },
-    { "label": "Account 2", "profileId": "175618962309703" },
-    { "label": "Account 3", "profileId": "560831977109963" },
-    { "label": "Account 4", "profileId": "183669694835897" }
+    { "label": "Cosmos", "profileId": "114999318137699" },
+    { "label": "Trace", "profileId": "175618962309703" },
+    { "label": "private", "profileId": "560831977109963" },
+    { "label": "jballer", "profileId": "183669694835897" }
   ]
 }
